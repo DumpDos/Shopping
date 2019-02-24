@@ -1,0 +1,25 @@
+{['EAN13']:'3250390103462', ['Article']:'Champignons de Paris', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'8712100731822', ['Article']:'Savora', ['Fabriquant']:'Amora'}
+{['EAN13']:'3250391526178', ['Article']:'Cornichons', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3615004514940', ['Article']:'Chargeur USB', ['Fabriquant']:'Carrefour'}
+{['EAN13']:'3250392332808', ['Article']:'Thon en Boîte', ['Fabriquant']:'Odyssée'}
+{['EAN13']:'3250390000853', ['Article']:'Haricots Verts 220g', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3083681021264', ['Article']:'Champignons de Paris à la crème fraiche', ['Fabriquant']:'Cassegrain'}
+{['EAN13']:'3250391530809', ['Article']:'Mélange de 4 champignons', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3250390664901', ['Article']:'Coeur d'artichauts 240g', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3524670303027', ['Article']:'Poivrons rouges entiers 250g', ['Fabriquant']:'Gotxoki'}
+{['EAN13']:'3250390000747', ['Article']:'Petits Pois 560g', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3038352880404', ['Article']:'Raviolis pur boeuf 1200g', ['Fabriquant']:'Panzani'}
+{['EAN13']:'7613031443338', ['Article']:'Céréales fitness chocolat noir', ['Fabriquant']:'Nesflé'}
+{['EAN13']:'3049580545577', ['Article']:'Saucisses aux lentilles 840g', ['Fabriquant']:'William Saurin'}
+{['EAN13']:'3220035150007', ['Article']:'Sucre en poudre 1000g ', ['Fabriquant']:'Saint Louis'}
+{['EAN13']:'8715700115313', ['Article']:'Sauce tomate arrabiata 490g', ['Fabriquant']:'Heinz'}
+{['EAN13']:'3017800006481', ['Article']:'Légumes pour couscous 800g', ['Fabriquant']:'d'aucy'}
+{['EAN13']:'3250390008385', ['Article']:'Moutarde de dijon 370g', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3017800230701', ['Article']:'Haricots verts et beurre 225g', ['Fabriquant']:'d'aucy'}
+{['EAN13']:'3250390765301', ['Article']:'Bolognaise 190g', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3038359005220', ['Article']:'Sauce tomate provençale 425g', ['Fabriquant']:'Panzani'}
+{['EAN13']:'3250391539871', ['Article']:'Tube sauce tomate 180g', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3248340054063', ['Article']:'Lait demi-écrémé 1L', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3250390059035', ['Article']:'Lait écrémé 0,5L', ['Fabriquant']:'Intermarché'}
+{['EAN13']:'3250390153498', ['Article']:'Lait demi-écrémé 0,5L', ['Fabriquant']:'Intermarché'}
