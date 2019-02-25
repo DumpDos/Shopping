@@ -1,4 +1,5 @@
 <?php
+// DumpDos 2019
 
 // Variables
 $file_0 	= fopen('resources/articles.txt', 'a');
